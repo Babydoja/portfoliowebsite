@@ -12,22 +12,22 @@ const ProjectSection = () => {
         description:"A react portfolio website created using nextjs and tailwind",
         image:"/images/project/1.png",
         tag:["All","Mobile"],
-        gitUrl:"/",
-        previewUrl:"/"
+        gitUrl:"https://github.com/Babydoja/portfoliowebsite",
+        previewUrl:"https://portfoliowebsite-eta-orcin.vercel.app/"
     },
     {
         id:2,
         title:"Blog Website",
-        description:"A react blog website created using nextjs and tailwind",
+        description:"A react blog website created using react, nodejs and express",
         image:"/images/project/2.png",
         tag:["All","Web"],
-        gitUrl:"/",
-        previewUrl:"/"
+        gitUrl:"https://github.com/Babydoja/blog",
+        previewUrl:"https://blog-steel-one-91.vercel.app/"
     },
     {
         id:3,
         title:"E - Commerce Website",
-        description:"A react blog website created using nextjs and tailwind",
+        description:"A react blog website created using react and tailwindjs",
         image:"/images/project/3.png",
         tag:["All","Web"],
         gitUrl:"/",
@@ -39,8 +39,8 @@ const ProjectSection = () => {
         description:"A react website used for Authetication and Authorization",
         image:"/images/project/4.png",
         tag:["All","Web"],
-        gitUrl:"/",
-        previewUrl:"/"
+        gitUrl:"https://github.com/Babydoja/authfrontend",
+        previewUrl:"https://authfrontend-two.vercel.app/"
     },
     {
         id:5,
@@ -48,8 +48,8 @@ const ProjectSection = () => {
         description:"A react website created for creating ,updating and deleting task",
         image:"/images/project/5.png",
         tag:["All","Web"],
-        gitUrl:"/",
-        previewUrl:"/"
+        gitUrl:"https://github.com/Babydoja/crudss",
+        previewUrl:"https://crudapps.vercel.app/"
     },
     {
         id:6,
@@ -57,8 +57,8 @@ const ProjectSection = () => {
         description:"A project created using html and css ",
         image:"/images/project/6.png",
         tag:["All","Web"],
-        gitUrl:"/",
-        previewUrl:"/"
+        gitUrl:"https://github.com/Babydoja/Training-Studio",
+        previewUrl:"https://training-studio-eight.vercel.app/"
     },
     ]
     const [tag, setTag] = useState('All')
