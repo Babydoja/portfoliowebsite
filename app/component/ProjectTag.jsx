@@ -7,7 +7,7 @@ export default function ProjectTag({name, onClick, isSelected}) {
     :"text-[#adb7be] border-slate-500 hover:border-white"
   return (
     <div>
-        <button onClick={() =>onClick(name)} className={`${buttonStyle} rounded-full border-2 px-6 py-3 text-xl cursor-pointer`} > 
+        <button onClick={() =>onClick(name)} className={`${buttonStyle} rounded-full border-2 px-6 py-3 text-[15px] cursor-pointer`} > 
             {name}
         </button>
     </div>
