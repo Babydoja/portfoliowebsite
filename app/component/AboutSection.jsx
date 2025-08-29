@@ -14,6 +14,7 @@ const TAB_DATA = [
                 <li>HTML</li>
                 <li>Javascript</li>
                 <li>CSS</li>
+                <li>Tailwind</li>
                 <li>MONGODB</li>
                 <li>EXPRESS</li>
             </ul>
@@ -26,6 +27,7 @@ const TAB_DATA = [
             <ul className='list-disc pl-2'>
                 <li>FullStack Academy of code</li>
                 <li>University of California santa cruz</li>
+                <li>Parach ICT Academy</li>
             </ul>
         )
     },
@@ -35,7 +37,8 @@ const TAB_DATA = [
         content :(
             <ul className='list-disc pl-2'>
                 <li>Full stack Certification</li>
-                <li>University of California santa cruz</li>
+                <li>Uiux Certification</li>
+                <li>Python Certfication</li>
             </ul>
         )
     },
