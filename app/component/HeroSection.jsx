@@ -28,8 +28,8 @@ export default function HeroSection() {
                         repeat={Infinity}
                     />
                 </h1>
-                <p className='text-[#adb7be] sm:text-lg text-base lg:text-xl '>
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam, Voluptatum.
+                <p className='text-[#adb7be] sm:text-lg py-2 text-base lg:text-xl '>
+                    I am a full stack web developer with a passion for creating interactive and responsive web applications.
                 </p>
 
                 <div>
